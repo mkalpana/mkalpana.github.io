@@ -1,0 +1,48 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Demo",
+    "description": "",
+    "home_page_url": "https://github.com/mkalpana/mkalpana.github.io",
+    "feed_url": "https://github.com/mkalpana/mkalpana.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Kalpana"
+    },
+    "items": [
+        {
+            "id": "https://github.com/mkalpana/mkalpana.github.io/this-is-a-demo-post-2.html",
+            "url": "https://github.com/mkalpana/mkalpana.github.io/this-is-a-demo-post-2.html",
+            "title": "This is a demo post 2",
+            "summary": " Hello How is this? as well",
+            "content_html": "<p> </p>\n<p>Hello How is this? as well</p>",
+            "image": "https://github.com/mkalpana/mkalpana.github.io/media/posts/2/photo-1604419688654-254f2a20ab40.jpeg",
+            "author": {
+                "name": "Kalpana"
+            },
+            "tags": [
+                   "post",
+                   "new",
+                   "more"
+            ],
+            "date_published": "2020-11-04T17:31:43+11:00",
+            "date_modified": "2020-11-04T17:31:43+11:00"
+        },
+        {
+            "id": "https://github.com/mkalpana/mkalpana.github.io/this-is-a-demo-post.html",
+            "url": "https://github.com/mkalpana/mkalpana.github.io/this-is-a-demo-post.html",
+            "title": "This is a demo post",
+            "summary": " Hello How is this?",
+            "content_html": "<p> </p>\n<p>Hello How is this?</p>",
+            "image": "https://github.com/mkalpana/mkalpana.github.io/media/posts/1/photo-1604419688654-254f2a20ab40.jpeg",
+            "author": {
+                "name": "Kalpana"
+            },
+            "tags": [
+                   "post",
+                   "new"
+            ],
+            "date_published": "2020-11-04T17:26:54+11:00",
+            "date_modified": "2020-11-04T17:28:38+11:00"
+        }
+    ]
+}
